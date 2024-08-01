@@ -1,0 +1,5 @@
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Core\bin\Debug\MyRestaurant.Core.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Core\bin\Debug\MyRestaurant.Core.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Core\obj\Debug\MyRestaurant.Core.csproj.CoreCompileInputs.cache
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Core\obj\Debug\MyRestaurant.Core.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Core\obj\Debug\MyRestaurant.Core.pdb

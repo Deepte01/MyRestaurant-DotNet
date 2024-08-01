@@ -1,0 +1,9 @@
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\bin\Debug\MyRestaurant.Services.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\bin\Debug\MyRestaurant.Services.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\bin\Debug\MyRestaurant.Core.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\bin\Debug\MyRestaurant.Core.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\obj\Debug\MyRestaurant.Services.csproj.CoreCompileInputs.cache
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\obj\Debug\MyRestaurant.Services.csproj.CopyComplete
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\obj\Debug\MyRestaurant.Services.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\obj\Debug\MyRestaurant.Services.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.Services\obj\Debug\MyRestaurant.Services.csprojAssemblyReference.cache

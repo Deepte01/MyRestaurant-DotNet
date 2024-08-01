@@ -1,0 +1,16 @@
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\MyRestaurant.DataAccess.SQL.dll.config
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\MyRestaurant.DataAccess.SQL.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\MyRestaurant.DataAccess.SQL.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\EntityFramework.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\MyRestaurant.Core.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\MyRestaurant.Core.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\EntityFramework.xml
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.csprojAssemblyReference.cache
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.csproj.CoreCompileInputs.cache
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.csproj.CopyComplete
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.Migrations.Initial.resources
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.SQL\obj\Debug\MyRestaurant.DataAccess.SQL.csproj.GenerateResource.cache

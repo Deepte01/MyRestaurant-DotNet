@@ -1,0 +1,9 @@
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\bin\Debug\MyRestaurant.DataAccess.InMemory.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\bin\Debug\MyRestaurant.DataAccess.InMemory.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\bin\Debug\MyRestaurant.Core.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\bin\Debug\MyRestaurant.Core.pdb
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\obj\Debug\MyRestaurant.DataAccess.InMemory.csprojAssemblyReference.cache
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\obj\Debug\MyRestaurant.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\obj\Debug\MyRestaurant.DataAccess.InMemory.csproj.CopyComplete
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\obj\Debug\MyRestaurant.DataAccess.InMemory.dll
+D:\WorkspaceWeb_VS\MyRestaurant\MyRestaurant.DataAccess.InMemory\obj\Debug\MyRestaurant.DataAccess.InMemory.pdb

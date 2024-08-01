@@ -1,0 +1,41 @@
+﻿@model MyRestaurant.Core.Models.FoodItems
+
+@{
+    ViewBag.Title = Model.Name+" Details";
+}
+
+<h2>@Html.DisplayFor(model=> model.Name)</h2>
+
+<div class="col-md-12">
+    <div class="col-md-2">
+        <img class="img-responsive" src="~/Content/Images/Food_Icon.png"/>
+    </div>
+    <div class="col-md-10">
+        <dl class="dl-horizontal">
+            <dd>
+                @Html.DisplayFor(model => model.CreatedAt)
+            </dd>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+
+            <dd>
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+            <dt></dt>
+            <dd><a href="@Url.Action("AddToCart","Cart", new { Id = Model.Id})" class="btn btn-default">Add to Cart</a></dd>
+            <dt></dt>
+            <dd>@Html.ActionLink("Back to List", "Index")</dd>
+        </dl>
+    </div>
+</div>
+<div class="col-md-12 clearfix" />

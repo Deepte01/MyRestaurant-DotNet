@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MyRestaurant.Core.ViewModels.CartItemViewModel>
+
+@{
+    ViewBag.Title = "Cart";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Thumbnail
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quanity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FoodItemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            Total price
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="~/Content/Images/Food_Icon.png" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quanity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FoodItemName)
+            </td>
+            <td>
+                @String.Format("{0:c}", item.Price) 
+            </td>
+            <td>
+                @String.Format("{0:c}", item.Price * item.Quanity)
+            </td>
+            <td>
+            </td>
+            <td>
+                <a href="@Url.Action("RemoveFromCart", "Cart", new { Id=item.Id })" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="4" style="text-align:right"><strong>Cart Total Value</strong></td>
+        <td>@String.Format("{0:c}", (from p in Model select p.Price * p.Quanity).Sum())</td>
+        <td><a href="@Url.Action("Checkout", "Cart")">Checkout</a></td>
+    </tr>
+
+</table>
